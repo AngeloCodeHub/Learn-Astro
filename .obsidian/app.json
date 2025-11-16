@@ -1,0 +1,12 @@
+{
+  "userIgnoreFilters": [
+    "node_modules/",
+    "src/",
+    "dist/"
+  ],
+  "showInlineTitle": false,
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "tabSize": 2
+}

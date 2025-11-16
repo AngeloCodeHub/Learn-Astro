@@ -1,0 +1,9 @@
+{
+  "window.title": "${rootName}",
+  "files.exclude": {
+    // ".obsidian": true,
+  },
+  "typescript.tsdk": "node_modules\\.pnpm\\typescript@5.9.3\\node_modules\\typescript\\lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  // "explorer.excludeGitIgnore": true
+}
