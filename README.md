@@ -1,5 +1,7 @@
 # Astro Starter Kit: Basics
 
+Markdown知識｜Markdown筆記術
+
 ```sh
 pnpm create astro@latest -- --template basics
 ```
