@@ -2,7 +2,9 @@
   "userIgnoreFilters": [
     "node_modules/",
     "src/",
-    "dist/"
+    "dist/",
+    "SrcCode/",
+    "public/"
   ],
   "showInlineTitle": false,
   "showLineNumber": true,
