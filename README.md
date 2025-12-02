@@ -2,10 +2,13 @@
 
 ## 範疇
 
-- Markdown知識｜Markdown筆記術
+- Markdown編輯知識｜Markdown筆記術
+- Markdown 文檔語法（附帶HTML、CSS）
 - 知識管理
+- 文件系統（blog、wiki、gitbook）
 - 撰寫文章觀念與技術
-- 論文撰寫
+- 論文與文章寫作
 - 筆記術
+- 筆記方法論
 - 筆記軟體
-- 生產力工具與軟體
+- 生產力工具與軟體（Notion、Obsidian、NotebookLM）
