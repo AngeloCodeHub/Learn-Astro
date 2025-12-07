@@ -19,7 +19,8 @@
 - [Introduction to YAML - DEV Community](https://dev.to/paulasantamaria/introduction-to-yaml-125f)
 - [Prism（程式語言代碼）](https://prismjs.com/#supported-languages)
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
-- [Obsidian Flavored Markdown - Obsidian Help](https://help.obsidian.md/obsidian-flavored-markdown)
+- [Markdown 到底在紅什麼？ - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天](https://ithelp.ithome.com.tw/articles/10235469)
+- [Front Matter ： Markdown 的細節設定 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天](https://ithelp.ithome.com.tw/articles/10242863)
 
 ## Mermaid｜畫布
 
